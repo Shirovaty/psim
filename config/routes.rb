@@ -3,4 +3,11 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+
+  root "static#index"
+  get '/time', to: 'time#index'
+
+  post '/message', to: 'message#write'
+
+  get '/message', to: 'message#read'
 end
