@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  cost: 9.99
+  dateTime: 2023-04-04 18:56:26
+  burialLocation: MyString
+  churchLocation: MyString
+
+two:
+  id: 1
+  cost: 9.99
+  dateTime: 2023-04-04 18:56:26
+  burialLocation: MyString
+  churchLocation: MyString

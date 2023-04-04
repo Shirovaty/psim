@@ -1,0 +1,15 @@
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/Eddeyy/.asdf/installs/ruby/3.0.0/bin/ruby -I /home/Eddeyy/.asdf/installs/ruby/3.0.0/lib/ruby/3.0.0 -r ./siteconf20230404-3419-jl54rs.rb extconf.rb
+creating Makefile
+
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20230404-3419-80c586

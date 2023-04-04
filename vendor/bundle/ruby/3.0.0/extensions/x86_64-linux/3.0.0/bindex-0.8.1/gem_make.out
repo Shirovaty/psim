@@ -1,0 +1,15 @@
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/Eddeyy/.asdf/installs/ruby/3.0.0/bin/ruby -I /home/Eddeyy/.asdf/installs/ruby/3.0.0/lib/ruby/3.0.0 -r ./siteconf20230404-3419-o1rltt.rb extconf.rb
+creating Makefile
+
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/Eddeyy/dev/psim_wys/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20230404-3419-87c6oj/skiptrace/internal
